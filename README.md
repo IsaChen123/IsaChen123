@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a computer sciences student at the University of Illinois at Chicago (UIC) and I am eager to apply my skills to working on projects in internships. 
+
+During the summer after my freshman year, I've completed an internship through Breakthrough Tech at Google to learn about the user research and product design process. I was delighted to apply my creativity into brainstorming ideas and creating prototypes to illustrate how to utilize existing software to enhance current products.
+
+Currently, I'm also serving as a TA for a CS course at UIC. I am passionate about helping other students learn and succeed. In this role, I am challenged to utilize my problem-solving skills to help my students with variety of coding problems and practice my communication skills.
+
+Through my studies, I have gained experience with developing and testing applications and programs. I am familiar with several coding languages including Java, C/C++, and python. I am interested in app development and software engineering.
